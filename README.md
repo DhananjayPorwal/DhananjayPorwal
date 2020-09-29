@@ -10,4 +10,4 @@ I'm a computer science student looking for a job as remote intern or part- time 
 - Learning in public on [Youtube](https://www.youtube.com/channel/UCIzgnaYhyItjl7lwomheaLA/videos?disable_polymer=1) and [Quora](https://www.quora.com/profile/Dhananjay-Porwal-2) 📹 ✍🏾
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/dhananjayporwal/) and [Instagram](https://www.instagram.com/porwal.exe/)💼
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.DhananjayPorwal.DhananjayPorwal)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=page.DhananjayPorwal.DhananjayPorwal)
