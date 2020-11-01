@@ -11,3 +11,8 @@ I'm a computer science student looking for a job as remote intern or part- time 
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/dhananjayporwal/) and [Instagram](https://www.instagram.com/porwal.exe/)💼
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=page.DhananjayPorwal.DhananjayPorwal)<br>
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhananjayporwal&show_icons=true&theme=gotham" alt="dhananjayporwal" />
+</details>
