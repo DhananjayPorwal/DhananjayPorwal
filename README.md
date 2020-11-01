@@ -32,6 +32,10 @@ I'm a computer science student looking for a job as remote intern or part- time 
   <a href="https://www.instagram.com/porwal.exe/">
   <img align="left" alt="Dhananjay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+ 
+  <a href="https://www.quora.com/profile/Dhananjay-Porwal-2">
+  <img align="left" alt="Dhananjay's Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
+</a>
   <a href="https://www.reddit.com/user/dhananjayporwal/">
   <img align="left" alt="Dhananjay's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
