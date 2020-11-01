@@ -16,3 +16,28 @@ I'm a computer science student looking for a job as remote intern or part- time 
 <summary>📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhananjayporwal&show_icons=true&theme=gotham" alt="dhananjayporwal" />
 </details>
+
+<details>
+<summary>🙌🏻 My Social Accounts</summary>
+  <br>
+<a href="https://twitter.com/dhananjayindia7">
+  <img align="left" alt="Dhananjay's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+  <a href="https://www.linkedin.com/in/dhananjayporwal/">
+  <img align="left" alt="Dhananjay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+  <a href="https://t.me/abhisheknaiidu">
+  <img align="left" alt="Dhananjay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+  <a href="https://www.instagram.com/porwal.exe/">
+  <img align="left" alt="Dhananjay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+  <a href="https://www.reddit.com/user/dhananjayporwal/">
+  <img align="left" alt="Dhananjay's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+  <a href="https://www.youtube.com/channel/UCIzgnaYhyItjl7lwomheaLA?view_as=subscriber">
+  <img align="left" alt="Dhananjay's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+  
+
+</details>
