@@ -18,7 +18,8 @@ I'm a computer science student looking for a job as remote intern or part- time 
 </details>
 
 <details>
-  
+<summary>Weapons ⚜️</summary>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayporwal&layout=compact)
 
 </details>
