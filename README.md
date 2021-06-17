@@ -32,7 +32,7 @@ I'm a computer science student looking for a job as remote intern or part- time 
   <a href="https://www.linkedin.com/in/dhananjayporwal/">
   <img align="left" alt="Dhananjay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-  <a href="https://t.me/Dprock214">
+  <a href="https://t.me/Dporwal214">
   <img align="left" alt="Dhananjay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
   <a href="https://www.instagram.com/porwal.exe/">
