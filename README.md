@@ -1,54 +1,115 @@
-# Hi, I'm Dhananjay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<img src="https://github.com/DhananjayPorwal/DhananjayPorwal/blob/master/images/gh-header-image-crop.jpg" alt="banner that says Dhananjay Porwal - Cyber Security Analyst,  Graphic Designer and Content Creator alongside a cartoon illustration of Dhananjay">
-I'm a computer science student looking for a job as remote intern or part- time job, where I can apply my knowledge. Constantly learning in the field of Computer Science and Graphic Designing. I am regular, punctual and hard-working student. One and only quote I use while performing tasks -“I found technology to explore myself”.
-
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
   
-## Find me around the web 🌎:<a href="https://github.com/DhananjayPorwal"><img align="left" width="150" height="150" src="https://github.com/DhananjayPorwal/DhananjayPorwal/blob/master/images/dhananjayporwal-octocat.gif?raw=true"></a>
-- [Curriculum Vitae](https://dhananjayporwal.me/) :rainbow:
-- Learning in public on [Youtube](https://www.youtube.com/channel/UCIzgnaYhyItjl7lwomheaLA/videos?disable_polymer=1) and [Quora](https://www.quora.com/profile/Dhananjay-Porwal-2) 📹 ✍🏾
-- Sharing updates on [Linkedin](https://www.linkedin.com/in/dhananjayporwal/) and [Instagram](https://www.instagram.com/porwal.exe/)💼
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=page.DhananjayPorwal.DhananjayPorwal)<br>
+### <div align="center">I'm Dhananjay, a full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
+  
 
-<details>
-<summary>GitHub Stats 📈</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhananjayporwal&show_icons=true&theme=gotham" alt="dhananjayporwal" />
-</details>
+- 🔭 I’m currently working on [GoWin](https://github.com/DhananjayPorwal/HackOn2.0)  
+  
 
-<details>
-<summary>Weapons ⚜️</summary>
+- 🌱 I’m currently learning Data Structures and Algorithm  
+  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayporwal&layout=compact)
+- ❓ Ask me about anything related to DevOps and related technologies  
+  
 
-</details>
+- ⚡ I found technologies to explore myself  
+  
 
-<details>
-<summary>Social Accounts 🙌🏻</summary>
-  <br>
-<a href="https://twitter.com/dhananjayindia7">
-  <img align="left" alt="Dhananjay's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/dhananjayindia7" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-  <a href="https://www.linkedin.com/in/dhananjayporwal/">
-  <img align="left" alt="Dhananjay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://dev.to/dhananjayporwal" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-  <a href="https://t.me/Dporwal214">
-  <img align="left" alt="Dhananjay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://linkedin.com/in/dhananjayporwal" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="https://www.instagram.com/porwal.exe/">
-  <img align="left" alt="Dhananjay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
- 
-  <a href="https://www.quora.com/profile/Dhananjay-Porwal-2">
-  <img align="left" alt="Dhananjay's Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
-</a>
-  <a href="https://www.reddit.com/user/dhananjayporwal/">
-  <img align="left" alt="Dhananjay's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-  <a href="https://www.youtube.com/channel/UCIzgnaYhyItjl7lwomheaLA?view_as=subscriber">
-  <img align="left" alt="Dhananjay's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-  <a href="mailto:dporwal985@gmail.com">
-  <img align="left" alt="Dhananjay's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-</details>
+<a href="https://instagram.com/porwal.exe" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DhananjayPorwal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ciyxmmqqjqidfj153kilons2s&cover_image=true&theme=novatorem" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=page.DhananjayPorwal.DhananjayPorwal" align="center" />
+</div>  
+  
