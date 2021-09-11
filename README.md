@@ -85,11 +85,6 @@
 
 <br/>  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ciyxmmqqjqidfj153kilons2s&cover_image=true&theme=novatorem" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=page.DhananjayPorwal.DhananjayPorwal" align="center" />
