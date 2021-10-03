@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithm  
   
 
-- ❓ Ask me about anything related to Kubernetes and related technologies  
+- ❓ Ask me about anything related to Linux  
   
 
 - ⚡ I found technologies to explore myself  
