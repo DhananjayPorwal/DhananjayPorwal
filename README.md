@@ -9,13 +9,13 @@
 - 🔭 I’m currently working on [GoWin](https://github.com/DhananjayPorwal/HackOn2.0)  
   
 
-- 🌱 I’m currently learning Data Structures and Algorithm  
+- 🌱 I’m currently learning and exploring Data Science  
   
 
 - ❓ Ask me about anything related to Linux  
   
 
-- ⚡ I found technologies to explore myself  
+- ⚡ I found technologies to explore **Myself**  
   
 
 <br/>  
