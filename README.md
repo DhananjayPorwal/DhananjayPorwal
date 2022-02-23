@@ -54,7 +54,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.reddit.com/user/dhananjayporwal" target="_blank">
-<img src=https://img.shields.io/badge/reddit-%23000000.svg?&style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/reddit-%23ff4301.svg?&style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
 </a> 
 </div>  
   
