@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dhananjay, a data science enthusiast 👨‍💻 working remotely 🚀</div>  
   
 
-- 🔭 I’m currently working on [GoWin](https://github.com/DhananjayPorwal/HackOn2.0)  
+- 🔭 I’m currently working on self  
   
 
 - 🌱 I’m currently learning and exploring Data Science  
