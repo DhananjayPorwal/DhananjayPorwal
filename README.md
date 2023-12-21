@@ -5,9 +5,10 @@
 
 ### <div align="center">I'm Dhananjay, a data science enthusiast 👨‍💻 working remotely 🚀</div>  
   
-
+<!---
 - 🔭 I’m currently working on myself  
-  
+--->
+<br>
 
 - 🌱 I’m currently learning and exploring Data Science  
   
@@ -68,12 +69,19 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DhananjayPorwal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+
+  ![Dhananjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhananjayporwal&show_icons=true&theme=transparent)
+
+</div> 
+
 
 <br/>  
 
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=page.DhananjayPorwal.DhananjayPorwal" align="center" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=page.DhananjayPorwal.DhananjayPorwal" align="center" /><br>
+<a href="https://www.buymeacoffee.com/dporwal985e"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </div>  
-  
+
+
